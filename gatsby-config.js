@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hello World Belize`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Luis Rodriguez`,
+      summary: `who lives in Belize and works as a full stack developer building cool stuff using modern technologies.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
+      youtube: `https://www.youtube.com/channel/UCMsXEjXW1iH7wTAanqijH6w`,
     },
   },
   plugins: [
@@ -105,7 +106,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Hello World Belize RSS Feed",
           },
         ],
       },
@@ -113,7 +114,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Hello World Belize`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
