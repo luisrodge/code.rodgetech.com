@@ -31,6 +31,8 @@ And now to shed some light on the obvious question - **what type of data can we 
 
 ### Examples
 
+**You can run all of these examples yourself by going to jsfiddle: https://jsfiddle.net/**
+
 #### Variable data types examples:
 
 ##### Boolean
