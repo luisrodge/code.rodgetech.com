@@ -19,9 +19,9 @@ We can use arithmetic operators to perform operations such as addition, subtract
 | Symbol | Operation      | Usage  | Details               |
 | ------ | -------------- | ------ | --------------------- |
 | +      | addition       | x + y  | add `y` to `x`        |
-| -      | subtraction    | x - y  | subtract `y` from 'x' |
+| -      | subtraction    | x - y  | subtract `y` from `x` |
 | \*     | multiplication | x \* y | multiply `x` with `y` |
-| /      | division       | x /y   | divide `x` by `y`     |
+| /      | division       | x / y  | divide `x` by `y`     |
 
 #### Assignment
 
