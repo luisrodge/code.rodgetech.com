@@ -30,8 +30,8 @@ You already saw one example of this in the previous section where we went over v
 | Symbol | Operation               | Usage   | Same as    | Details                                                |
 | ------ | ----------------------- | ------- | ---------- | ------------------------------------------------------ |
 | =      | assignment              | x = y   |            | assignes whatever value is in `y` to `x`               |
-| +=     | add and assignment      | x += y  | x = x + y  | assignes to `x` the result of adding `x` to `y`        |
-| -=     | minus and assignment    | x -= y  | x = x - y  | assignes to `x` the result of minusing `x` from `y`    |
+| +=     | add and assignment      | x += y  | x = x + y  | assignes to `x` the result of adding `y` to `x`        |
+| -=     | minus and assignment    | x -= y  | x = x - y  | assignes to `x` the result of minusing `y` from `x`    |
 | \*=    | multiply and assignment | x \*= y | x = x \* y | assignes to `x` the result of multiplying `x` with `y` |
 | /=     | divide and assignment   | x /= y  | x = x / y  | assignes to `x` the result of dividing `x` by `y`      |
 
