@@ -12,7 +12,7 @@ Code from this video: https://jsfiddle.net/2oarL74q/
 
 ### Variables summary
 
-Quite simply, variables are a mechanism for holding data. **You can think of it as a compartment in which you can store just about any type of data**. Once a variable is holding data you can do just about anything with that data by referencing the variable by its name.
+Variables are a way for us to store data. **You can think of it as a compartment in which you can store just about any type of data**. Once a variable is holding data you can do just about anything with that data by referencing the variable by its name.
 
 And now to shed some light on the obvious question - **what type of data can we put in a variable? Here's a list of the most common types of data we can store in variables:**
 
