@@ -35,6 +35,19 @@ You already saw one example of this in the previous section where we went over v
 | \*=    | multiply and assignment | x \*= y | x = x \* y | assignes to `x` the result of multiplying `x` with `y` |
 | /=     | divide and assignment   | x /= y  | x = x / y  | assignes to `x` the result of dividing `x` by `y`      |
 
+#### Comparison
+
+We use comparision operators to do comparisons. They result to either a true or false value (Boolean) based on whatever comparision is being made. For example, we can use comparision operators to check if two variables are equal or unequal.
+
+| Symbol | Operation             | Usage  | Details                                                                                                     |
+| ------ | --------------------- | ------ | ----------------------------------------------------------------------------------------------------------- |
+| ==     | equal                 | x == y | checks if `x` equals `y` - If equals the comparision results to true                                        |
+| !=     | not equal             | x != y | checks if `x` does not equal `y` - If not equals the comparision results to true                            |
+| >      | greater than          | x > y  | checks if `x` is greater than `y` - If greater the comparision results to true                              |
+| <      | less than             | x < y  | checks if `x` is less than `y` - If lesser the comparision results to true                                  |
+| >=     | greater than or equal | x >= y | checks if `x` is greater than or equal to `y` - If is greater than or equal the comparision results to true |
+| <=     | less than or equal    | x <= y | checks if `x` is less than or equal to `y` - If is less than or equal the comparision results to true       |
+
 ### That's it, for now!
 
 That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com
