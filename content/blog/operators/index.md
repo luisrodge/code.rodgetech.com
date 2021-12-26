@@ -35,6 +35,24 @@ You already saw one example of this in the previous section where we went over v
 | \*=    | multiply and assignment | x \*= y | x = x \* y | assignes to `x` the result of multiplying `x` with `y` |
 | /=     | divide and assignment   | x /= y  | x = x / y  | assignes to `x` the result of dividing `x` by `y`      |
 
+```javascript
+// Addition
+let a = 5 + 5
+console.log(a) // 10
+
+// Subtraction
+let s = 10 - 5
+console.log(s) // 5
+
+// Multiplication
+let m = 5 * 2
+console.log(m) // 10
+
+// Division
+let d = 4 / 2
+console.log(d) // 2
+```
+
 #### Comparison
 
 We use comparision operators to do comparisons. They result to either a true or false value (Boolean) based on whatever comparision is being made. For example, we can use comparision operators to check if two variables are equal or unequal.
