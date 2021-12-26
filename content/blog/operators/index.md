@@ -4,6 +4,10 @@ date: "2021-12-23T22:12:03.284Z"
 description: "Learn what operators are and how to create and use them in Javascript."
 ---
 
+Video: https://youtu.be/5pRWaIOAxyk
+
+Code from this video: https://jsfiddle.net/s28jmn4q/6/
+
 ---
 
 ### Operators summary
