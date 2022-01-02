@@ -1,5 +1,5 @@
 ---
-title: Operators
+title: 2. Operators
 date: "2021-12-23T22:12:03.284Z"
 description: "Learn what operators are and how to create and use them in Javascript."
 ---

@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Hello World Belize`,
+    title: `Learn Code`,
     author: {
       name: `Luis Rodriguez`,
       summary: `who lives in Belize and works as a full stack developer building cool stuff using modern technologies.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Content for absolute beginners to learn the fundamentals of coding.`,
+    siteUrl: `https://code.rodgetech.com`,
     social: {
       twitter: `kylemathews`,
       youtube: `https://www.youtube.com/channel/UCMsXEjXW1iH7wTAanqijH6w`,
@@ -106,7 +106,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Hello World Belize RSS Feed",
+            title: "Learn Code RSS Feed",
           },
         ],
       },
@@ -114,7 +114,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hello World Belize`,
+        name: `Learn Code`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
