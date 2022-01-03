@@ -4,9 +4,9 @@ date: "2022-01-02T22:12:03.284Z"
 description: "Learn what logical operators are and how to create and use if statements to perform decisions in your code."
 ---
 
-Video: https://youtu.be/5pRWaIOAxyk
+Video: https://youtu.be/43QCAH6OUKc
 
-Code from this video: https://jsfiddle.net/s28jmn4q/6/
+Code from this video: https://jsfiddle.net/exdL7zyu/1/
 
 ---
 
