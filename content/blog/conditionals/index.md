@@ -47,7 +47,7 @@ Now that we've covered logical operators we can start looking into some of the c
 
 #### if...else statement
 
-We use the if else statement to control which block of code will be executed under certain conditions. There's 3 forms of the if else statement that can use in Javascript (and just about every other programming language).
+We use the if else statement to control which block of code will be executed under certain conditions. There's 3 forms of the if else statement that we can use in Javascript (and just about every other programming language).
 
 1. if statement
 2. if...else statement
@@ -70,7 +70,7 @@ Overview of what's happening above:
 Now let us take a look at a practical example
 
 ```javascript
-const age = 22
+let age = 22
 
 // true
 if (age >= 21) {
@@ -109,7 +109,7 @@ Breakdown:
 Example:
 
 ```javascript
-const age = 25
+let age = 25
 
 if (age >= 21) {
   console.log("You can have a drink") // ✅ This code will be executed
@@ -155,7 +155,7 @@ Breakdown:
 Lets have at some examples:
 
 ```javascript
-const age = 12
+let age = 12
 
 if (age < 18) {
   console.log("You are too young to be drinking") // ✅ Executed
@@ -165,7 +165,7 @@ if (age < 18) {
   console.log("You should retire from drinking") // ❌ Skipped
 }
 
-const age = 19
+age = 19
 
 if (age < 18) {
   console.log("You are too young to be drinking") // ❌ Skipped
@@ -175,7 +175,7 @@ if (age < 18) {
   console.log("You should retire from drinking") // ❌ Skipped
 }
 
-const age = 80
+age = 80
 
 if (age < 18) {
   console.log("You are too young to be drinking") // ❌ Skipped
