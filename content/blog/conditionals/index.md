@@ -1,7 +1,7 @@
 ---
-title: 3. Conditionals
+title: 3. Conditionals - Part 1
 date: "2022-01-02T22:12:03.284Z"
-description: "Learn what conditionals are and how to create and use them in Javascript."
+description: "Learn what logical operators are and how to create and use if statements to perform decisions in your code."
 ---
 
 Video: https://youtu.be/5pRWaIOAxyk
@@ -16,7 +16,7 @@ Conditionals are a way for you to control the execution flow of your code. You c
 
 #### First: Logical operators
 
-In the previous post we went over the common operators that you will mostly be working with however I deliberately didnt cover another type of common operator because it goes hand in hand with conditionals - these are the logical operators.
+In the previous post we went over the common types of operators that you will mostly be working with however I deliberately didn't cover another type of common operator because it goes hand in hand with conditionals - these are the logical operators.
 
 We can use logical operators to connect two or more conditions (comparisons) that will result to either a true or false value.
 
