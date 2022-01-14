@@ -4,9 +4,9 @@ date: "2022-01-12T22:12:03.284Z"
 description: "Learn what a switch statement is and how to use it as a viable alternative to if...else if statements to also perform decisions in your code."
 ---
 
-Video: https://youtu.be/43QCAH6OUKc
+Video: https://youtu.be/KseMGAfQgJk
 
-Code from this video: https://jsfiddle.net/exdL7zyu/1/
+Code from this video: https://jsfiddle.net/3emac8Lz/4/
 
 ---
 
