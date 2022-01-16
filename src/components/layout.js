@@ -33,6 +33,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <hr />
+
       <footer>
         <p>
           © {new Date().getFullYear()}, Built with
