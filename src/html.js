@@ -30,7 +30,6 @@ export default function HTML(props) {
           async
           src="https://unpkg.com/code-q-widget@0.1.8/dist/index.umd.js"
         ></script>
-        ,
       </body>
     </html>
   )
