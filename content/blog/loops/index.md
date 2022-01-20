@@ -4,9 +4,9 @@ date: "2022-01-19T22:12:03.284Z"
 description: "Learn what loops are and how we can use them to execute any code over and over for as much as we want up until a condition has been met"
 ---
 
-Video: https://youtu.be/43QCAH6OUKc
+Video:
 
-Code from this video: https://jsfiddle.net/exdL7zyu/1/
+Code from this video:
 
 ---
 
