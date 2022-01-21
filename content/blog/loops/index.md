@@ -113,11 +113,67 @@ By running this example we can expect to see "Hello world" outputted to console 
 
 #### for loop
 
+Finally, lets have a look at the for loop. As with the previous types of loops, the for loop will run a block of code over and over until the given condition results to false.
+
+The following is the basic structure of a for loop:
+
 ```javascript
-for(initialization, condition, increment) {
+for (initialization; condition; increment) {
   // code you want to run repeatedly
 }
 ```
+
+Notice the three expressions inside the parentheses `()`. These can be explained as follows:
+
+- initialization - code defined here will be executed once before the first iteration. This is where you'd usually define the iterator variable to be used in the condition and increment expressions.
+- condition - the condition that will determine when (if) the loop should stop.
+- increment - this is usually the expression that increments the iterator variable.
+
+Lets look at an example:
+
+```javascript
+for (let i = 0; i < 5; i++) {
+  console.log("Hello world")
+}
+```
+
+In this example we can expect to see 5 output of "Hello world" in the console.
+
+Notice the `i++`? When it comes to incrementing the iterator variable, we can usually do this in three ways:
+
+- `i = i + 1` - this is how we've been doing it and we've previously covered this in the operators section.
+- `i += 1` - a shorter way of incrementing by using the add and assignment operator.
+- `i++` - the shortest way by always incrementing by 1.
+
+#### Just one last important thing - decrementing
+
+So far we've only been incrementing the iterator variable that is used in the condition protion of the loop. However, we can also do the opposite - this is called decrementing:
+
+- `i = i - 1`
+- `i -= 1`
+- `i--`
+
+Lets have at an example using the while loop:
+
+```javascript
+let i = 5
+
+while (i > 0) {
+  console.log("Hello world")
+  i = i - 1 // Decrement i by 1
+}
+```
+
+So in this example, instead of starting from 0 and incrementing by one we are starting from 5 and decrementing by 1. Notice how we also changed the condition from `i < 5` to `i > 0`.
+
+This can be further broken down as follows given that the `i` variable has an initial value of 5:
+
+- `while (5 > 0)` then `console.log("Hello world")` and then decrement `i` (5) by one and loop again
+- `while (4 > 0)` then `console.log("Hello world")` and then decrement `i` (4) by one and loop again
+- `while (3 > 0)` then `console.log("Hello world")` and then decrement `i` (3) by one and loop again
+- `while (2 > 0)` then `console.log("Hello world")` and then decrement `i` (2) by one and loop again
+- `while (1 > 0)` then `console.log("Hello world")` and then decrement `i` (1) by one and loop again
+- `while (0 > 0)` will evaluate to false so at this point the loop will stop executing here
 
 ### That's it, for now!
 
