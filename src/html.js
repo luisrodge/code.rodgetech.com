@@ -14,7 +14,7 @@ export default function HTML(props) {
         {props.headComponents}
         <link
           rel="stylesheet"
-          href="https://unpkg.com/code-q-widget@0.1.19/dist/index.css"
+          href="https://unpkg.com/code-q-widget@0.1.20/dist/index.css"
         />
       </head>
       <body {...props.bodyAttributes}>
@@ -28,7 +28,7 @@ export default function HTML(props) {
         <div data-widget-host="q-widget"></div>
         <script
           async
-          src="https://unpkg.com/code-q-widget@0.1.19/dist/index.umd.js"
+          src="https://unpkg.com/code-q-widget@0.1.20/dist/index.umd.js"
         ></script>
       </body>
     </html>
