@@ -141,7 +141,3 @@ Lets break down what will happen in this example. If you were to run this code t
 - console.log("Idk what your favorite color is")
 
 We can see that case "red" and the default case will both be executed due to no break statement being defined in the "red" case. **So just keep in mind that while a break statement is not required in a switch statement, the execution of code may behave unexpectedly when break statements are omitted.**
-
-### That's it, for now!
-
-That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com

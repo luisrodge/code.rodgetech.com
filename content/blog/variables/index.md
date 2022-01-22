@@ -113,7 +113,3 @@ console.log(email); // johndoe@mail.com
 Variables are everywhere in programming so it's a good idea for you to get in the habit of practicing these new concepts as you learn them.
 
 NOTE: There's a practice jsfiddle for this section which you can find [here](https://jsfiddle.net/s3mzbrcw/) (Remember to switch to the Javascript tab).
-
-### That's it, for now!
-
-That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com

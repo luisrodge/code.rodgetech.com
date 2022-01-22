@@ -1,6 +1,6 @@
 ---
 title: Loops
-date: "2022-01-19T22:12:03.284Z"
+date: "2022-01-21T22:12:03.284Z"
 description: "Learn what loops are and how we can use them to execute any code over and over for as much as we want up until a condition has been met"
 ---
 
@@ -174,7 +174,3 @@ This can be further broken down as follows given that the `i` variable has an in
 - `while (2 > 0)` then `console.log("Hello world")` and then decrement `i` (2) by one and loop again
 - `while (1 > 0)` then `console.log("Hello world")` and then decrement `i` (1) by one and loop again
 - `while (0 > 0)` will evaluate to false so at this point the loop will stop executing here
-
-### That's it, for now!
-
-That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com

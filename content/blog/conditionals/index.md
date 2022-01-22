@@ -202,7 +202,3 @@ Lets dissect what's happening here:
   - `if (age < 18)` results to false so the body of the if will be skipped
   - `else if (age >= 18 && age < 70)` results to false so the body of the else if will also be skipped
   - `else` the body of the else will be execute since no prior condition was resolved to true
-
-### That's it, for now!
-
-That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com

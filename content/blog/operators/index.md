@@ -123,7 +123,3 @@ console.log(5 <= 5) // true
 console.log(5 <= 6) // true
 console.log(5 <= 2) // false
 ```
-
-### That's it, for now!
-
-That's all for now but there's still so much more to come. So until then I just want to thank you for stopping by and if you have any questions please never hesitate to contact me. Remember, you can always send your questions to my email @ rodgetech@gmail.com
