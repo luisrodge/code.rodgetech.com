@@ -1,5 +1,5 @@
 ---
-title: 3. Conditionals - Part 1
+title: Conditionals - Part 1
 date: "2022-01-02T22:12:03.284Z"
 description: "Learn what logical operators are and how to create and use if statements to perform decisions in your code."
 ---

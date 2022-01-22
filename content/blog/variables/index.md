@@ -1,5 +1,5 @@
 ---
-title: 1. Variables
+title: Variables
 date: "2021-12-22T22:12:03.284Z"
 description: "Learn what variables are and how to create and use them in Javascript."
 ---

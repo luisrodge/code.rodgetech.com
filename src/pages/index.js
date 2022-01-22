@@ -27,12 +27,19 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
       <Bio />
+      <h3>Programming fundamentals</h3>
+      <p>
+        The following posts are specifically meant to help people with little to
+        no prior programming experience learn the fundamentals of programming
+        using the widely popular Javascript programming language 💻🔥.
+      </p>
+      <hr />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <li key={post.fields.slug}>
+            <li key={post.fields.slug} style={{ margin: 0 }}>
               <article
                 className="post-list-item"
                 itemScope

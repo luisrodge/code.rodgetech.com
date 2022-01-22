@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
       <h1 className="main-heading">
         <Link to="/">
           <>
-            <span style={{ color: "#d1dce5", fontSize: "30px" }}>
+            <span style={{ color: "#d1dce5", fontSize: "25px" }}>
               rodgeTech
             </span>
             {title}
@@ -22,7 +22,7 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <Link className="header-link-home" to="/">
-        <span style={{ color: "#d1dce5", fontSize: "25px" }}>rodgeTech</span>
+        <span style={{ color: "#d1dce5", fontSize: "20px" }}>rodgeTech</span>
         {title}
       </Link>
     )
@@ -32,9 +32,10 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <hr />
 
       <footer>
+        <hr />
+
         <p>
           © {new Date().getFullYear()}, Built with
           {` `}
