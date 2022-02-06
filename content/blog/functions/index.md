@@ -12,7 +12,7 @@ Code from this video:
 
 ### Functions summary
 
-Lets say you're building a website and you have some piece of code that handles signing in a user to your site. Now imagine you have multiple locations on your site that a user can sign in from; will you just repeat your sign in code all over the place to faciliate this? Of course you can do this, but this will lead you to have duplicated code all over the place and if you ever need to alter you sign in logic then you will also need to this everywhere else you've defined your login code.
+Lets say you're building a website and you have some piece of code that handles signing in a user to your site. Now imagine you have multiple locations on your site that a user can sign in from; will you just repeat your sign in code all over the place to facilitate this? Of course you can do this, but this will lead you to have duplicated code all over the place and if you ever need to alter you sign in logic then you will also need to do this everywhere else you've defined your login code.
 
 This is where functions can help. Functions are like a container for a block of code that we can assign a name to and then execute whatever code is contained in the function by invoking the function - that is calling it by the name we gave it. This allows us to write code that we expect to use in multiple places in a reusable way instead of repeating the same code all over the place.
 
